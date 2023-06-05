@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Taylor Johnson</h1>
+<h1 align="center">Taylor Johnson</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
 - ✉️ You can contact me at [taylorjohnsondev@gmail.com](taylorjohnsondev@gmail.com)
