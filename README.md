@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Web Developer</h3>
 
 - You can contact me at [taylorjohnsondev@gmail.com](taylorjohnsondev@gmail.com)
-- You can view my portfolio at <a href="taylorjohnsondev.com" target="blank">
+- You can view my portfolio at <a href="taylorjohnsondev.com" target="blank">taylorjohnsondev.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
